@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+}
+.main{
+    margin-left: 30%;
+    margin-top: 20%;
+    background-color: green;
+    border-radius: 10px;
+    width: 40%;
+    height: 170px;
+    color: white;
+}
+label,input{
+    margin-left: 35%;
+}
+.down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+.parol{
+    position: relative;
+    right: 210px;
+    top: 2px;
+}
